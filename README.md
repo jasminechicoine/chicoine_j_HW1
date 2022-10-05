@@ -2,7 +2,8 @@
   <content><![CDATA[
 # ${1: coding_is_super_fun}
 
-## About Me
+About Me
+
 I grew up in a small town called Port Dover and have always loved going to the beach and hanging out with my friends and family. Some of my favourite things to do is to listen to music, paint, and making clothes. I also love to travel and my favourite place that I'm very i got the opportunity to visit is Hawaii.
 
 ## A pic of art I really love
